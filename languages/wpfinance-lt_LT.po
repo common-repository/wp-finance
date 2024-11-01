@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Finance\n"
+"POT-Creation-Date: 2013-02-25 22:13+0200\n"
+"PO-Revision-Date: 2013-02-25 22:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: MindoMobile <wpfinance@mindomobile.com>\n"
+"Language: Lithuanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/mindo/Documents/hobbies/wordpress/wp-content/"
+"plugins/wp-finance\n"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:145
+msgid "<b>Error:</b> View is not found!"
+msgstr "<b>Klaida:</b> Puslapis nerastas!"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:149
+msgid "<b>Error:</b> Component is not found!"
+msgstr "<b>Klaida:</b> WP Finance komponentas nerastas!"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:212
+msgid "Balance from previous periods:"
+msgstr "Balansas:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:234
+msgid "Income:"
+msgstr "Įplaukos:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:235
+msgid "Expenses:"
+msgstr "Išlaidos:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:236
+msgid "Grand Total:"
+msgstr "Iš viso:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:246
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:155
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:160
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:531
+msgid "Income"
+msgstr "Įplaukos"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:247
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:156
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:160
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:532
+msgid "Expenses"
+msgstr "Išlaidos"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:316
+msgid "Print report"
+msgstr "Spausinti ataskaitą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:316
+msgid "Print"
+msgstr "Spausdinti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:41
+msgid "Configure"
+msgstr "Nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:54
+msgid "None"
+msgstr "Nerodyti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:55
+msgid "ISO code"
+msgstr "ISO kodas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:56
+msgid "Currency symbol"
+msgstr "Simbolis"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:59
+msgid "In front of the number"
+msgstr "Prieš sumą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:60
+msgid "After the number"
+msgstr "Po sumos"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:63
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:72
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:82
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:86
+msgid "No"
+msgstr "Ne"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:64
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:73
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:83
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:87
+msgid "Yes"
+msgstr "Taip"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:67
+msgid "Shared account"
+msgstr "Bendra sąskaita"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:68
+msgid "Separate account for each user"
+msgstr "Individualios sąskaitos"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:77
+msgid "Standard"
+msgstr "Numatytas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:78
+msgid "Side by side"
+msgstr "Vienas šalia kito"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:79
+msgid "Single sheet"
+msgstr "Viskas kartu"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:107
+msgid "Settings were updated successfully!"
+msgstr "Nustatymai išsaugoti sėkmingai!"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:129
+msgid "Settings were not updated! Please check configuration!"
+msgstr ""
+"Nustatymai nebuvo išsaugoti. Peržiūrėkite nustatymus ir bandykite dar kartą."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:135
+msgid "General settings"
+msgstr "Nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:138
+msgid "Currency"
+msgstr "Valiuta"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:148
+msgid "Currency representation"
+msgstr "Valiutos pateikimas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:154
+msgid "Not all currency symbols are available in this version of WP Finance!"
+msgstr "Šioje versijoje nėra visų valiutų simbolių."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:158
+msgid "Currency sign position"
+msgstr "Valiutos simbolio rodymas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:167
+msgid "Show balance of previous periods"
+msgstr "Rodyti balansą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:178
+msgid "Role settings"
+msgstr "Vartotojų nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:183
+msgid "Accounting"
+msgstr "Sąskaitos tipas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:193
+msgid "Role premissions"
+msgstr "Vartotojų grupės nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:207
+msgid "Allows selected roles to view and edit financial statements."
+msgstr ""
+"Pasirinktos vartotojų grupės galės kurit ir peržiūrėti apskaitos duomenis."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:212
+msgid "Show username in overview"
+msgstr "Vartotojo rodymas ataskaitoje"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:223
+msgid "Printing settings"
+msgstr "Spausdinimo nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:228
+msgid "Report format"
+msgstr "Formatas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:238
+msgid "Include description"
+msgstr "Rodyti aprašymą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:248
+msgid "Include username"
+msgstr "Rodyti vartotoją"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:258
+msgid "Save Settings"
+msgstr "Išsaugoti nustatymus"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:259
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:315
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:430
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:40
+msgid "CSS Editor"
+msgstr "CSS Redaktorius"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:63
+msgid "CSS stylesheets were updated successfully."
+msgstr "CSS nustatymai išsaugoti sėkmingai."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:68
+msgid "Custom"
+msgstr "Jūsų CSS"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:69
+msgid "Default"
+msgstr "Numatytas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:70
+msgid "Extra Light"
+msgstr "Labai paprastas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:79
+msgid "CSS Theme"
+msgstr "CSS tema"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:88
+msgid "Custom stylesheet"
+msgstr "Jūsų CSS"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:92
+msgid "Save"
+msgstr "Išsaugoti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:14
+msgid "Filter"
+msgstr "Filtravimas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:15
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:41
+msgid "Overview"
+msgstr "Ataskaita"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:81
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:78
+msgid "Click to toggle"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:155
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:156
+msgid "Add"
+msgstr "Pridėti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:172
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:187
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:479
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:499
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:516
+msgid "Invoice #:"
+msgstr "Sąskaitos nr"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:200
+msgid "No data."
+msgstr "Nėra duomenų"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:241
+msgid "Income record was updated successfully"
+msgstr "Pajamų įrašas buvo atnaujintas sėkmingai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:253
+msgid "New income record was added successfully"
+msgstr "Naujas pajamų įrašas buvo pridėtas sėkmingai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:257
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:373
+msgid "Incorrect date format"
+msgstr "Neteisingai įvesta data"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:258
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:374
+msgid "Please specify income title"
+msgstr "Nurodykite pajamų pavadinimą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:259
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:375
+msgid "Amount format is incorrect!"
+msgstr "Suma yra nurodyta neteisingai!"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:279
+msgid "Add Income"
+msgstr "Pajamų įrašas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:286
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:401
+msgid "Date"
+msgstr "Data"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:290
+msgid "Income title"
+msgstr "Pajamų pavadinimas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:294
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:409
+msgid "Amount"
+msgstr "Suma"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:297
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:412
+msgid "Input amount only. For example: 12.34"
+msgstr "Įveskite tik sumą. Pavyzdžiui: 12.34"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:301
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:416
+msgid "Invoice #"
+msgstr "Sąskaitos nr"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:305
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:420
+msgid "Description"
+msgstr "Aprašymas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:309
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:424
+msgid "Added by"
+msgstr "pridėjo vartotojas "
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:314
+msgid "Save Invoice"
+msgstr "Išsaugoti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:317
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:432
+msgid "Remove record"
+msgstr "Ištrinti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:357
+msgid "Expense record was updated successfully"
+msgstr "Išlaidų įrašas buvo sėkmingai atnaujintas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:369
+msgid "New expense record was added successfully"
+msgstr "Naujas išlaidų įrašas buvo sėkmingai pridėtas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:395
+msgid "Add Expense"
+msgstr "Išlaidų įrašas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:405
+msgid "Expense title"
+msgstr "Išlaidų pavadinimas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:429
+msgid "Save Expense"
+msgstr "Išsaugoti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:453
+msgid "Record was successfuly removed!"
+msgstr "Įrašas buvo ištrintas sėkmingai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:491
+msgid "Balance"
+msgstr "Balansas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:510
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:527
+msgid "Total"
+msgstr "Iš viso"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:541
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:545
+msgid "Financial report"
+msgstr "Finansinė ataskaita"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:546
+msgid "Period"
+msgstr "Laikotarpis"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:546
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:572
+msgid "to"
+msgstr "iki"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:570
+msgid "From"
+msgstr "Nuo"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:575
+msgid "Previous periods"
+msgstr "Laikotarpis"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:577
+msgid "1m"
+msgstr "1 mėn."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:578
+msgid "3m"
+msgstr "3 mėn."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:579
+msgid "6m"
+msgstr "6 mėn."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:580
+msgid "1y"
+msgstr "1 met."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:584
+msgid "Update"
+msgstr "Filtruoti"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:619
+msgid "Balance from<br/>previouse periods:"
+msgstr "Balansas:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:628
+msgid "Total income:"
+msgstr "Iš viso pajamų:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:634
+msgid "Total expenses:"
+msgstr "Iš viso išlaidų:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:640
+msgid "Grand total:"
+msgstr "Iš viso:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:12
+msgid "About WP Finance"
+msgstr "Apie WP Finance"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:13
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:126
+msgid "Shortcode"
+msgstr "Trumpasis kodas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:38
+msgid "Help"
+msgstr "Pagalba"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:108
+msgid "Plugin Name"
+msgstr "Įskiepio pavadinimas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:109
+msgid "Version"
+msgstr "Versija"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:110
+msgid "Website"
+msgstr "Oficialus puslapis"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:111
+msgid "Support email"
+msgstr "El. paštas"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:112
+msgid "Support forum"
+msgstr "Diskusijos"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:122
+msgid ""
+"Financial report can be embedded into blog post or custom pages using "
+"shortcode to provide read-only financial information for your blog readers."
+msgstr ""
+"Finansinė ataskaita gali būti įterpta į kaip blog'o įrašas arba kaip "
+"atskiras puslapis. Finansinė ataskaita bus matoma visiems vartotojams, "
+"tačiau jie negalės jos redaguoti."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:127
+msgid "Shortcode parameters"
+msgstr "Trumpojo kodo nustatymai"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:128
+msgid "start date for report"
+msgstr "data kurią naudoti kaip pradinę periodo datą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:129
+msgid "end date for report"
+msgstr "data kurią naudoti kaip paskutinę periodo datą"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:130
+msgid "show grand total table"
+msgstr "rodyti lentelę su įplaukų, išlaidų ir iš viso eilutėmis."
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:131
+msgid "For example"
+msgstr "Pavyzdžiui"

@@ -1,0 +1,20 @@
+@media all { .page-break { display: none; } }
+@media print { .page-break { display: block; page-break-before: always; } }
+h1 { font-size:24px; margin-bottom: 0px; font-weight:bold;}
+h2 { font-size:18px; margin: 0; font-weight:bold; padding-left: 5px;}
+p  { font-size:12px; font-family:times new roman, serif; margin:0 0 18px 0; }
+
+.columns {width: 100%; float: left;}
+.column {width: 50%; float: left;}
+.record {float :left; width: 100%; padding: 5px 0px;}
+  .first {border-top: 1px solid #666666;}
+.balance {float: left; width: 100%;}
+  .balance span {font-weight: bold; font-size: 13px; float: right; padding-right: 10px;}
+.name {float: left; font-size: 13px; padding-left: 5px;}
+  .description {font-size: 11px;}
+.amount {float: right; font-size: 13px; font-weight: bold; padding-right: 10px;}
+
+.totals { padding-top: 15px; float: left; }
+.totals div span.title, .totals div span.title-bold {min-width: 150px; float:left; font-size:15px; font-family:times new roman, serif;}
+.totals div span.value, .totals div span.value-bold {float:left; font-size:15px; font-family:times new roman, serif;}
+.totals div span.title-bold, .totals div span.value-bold {font-weight: bold;}

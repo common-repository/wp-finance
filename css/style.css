@@ -1,0 +1,50 @@
+.wpf_menu {
+    margin: 15px 0;
+}
+
+.wpf_menu ul, .wpf_menu ul li {
+    display: inline;
+}
+
+.wpf_print {
+    float: right;
+    margin-right: 10px;
+    padding-left: 20px;
+    background: url(../img/print.gif) #ffffff no-repeat left;
+}
+
+.wpf-date-filter {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.postbox ul, .postbox ul li  {
+    display: inline;
+}
+
+.wpf-date-filter .start-date {
+    width: 90px;
+    background: url(../img/c.png) #ffffff no-repeat right;
+}
+
+#wpf-update-actions {
+    border-top: 1px solid #FFFFFF;
+    padding: 10px 10px 2px 8px;
+    text-align: right;
+}
+
+#ui-datepicker-div {
+ display: none;
+	background-color: #f6f6f6;
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+}
+
+#ui-datepicker-div div.ui-datepicker-title {
+	text-align: center;
+	background-color: #dfdfdf;
+}
+
+#ui-datepicker-div span.ui-icon-circle-triangle-e {
+	float: right;
+}

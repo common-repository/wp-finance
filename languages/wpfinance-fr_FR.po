@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Finance\n"
+"POT-Creation-Date: 2013-02-25 22:12+0200\n"
+"PO-Revision-Date: 2013-02-25 22:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/mindo/Documents/hobbies/wordpress/wp-content/"
+"plugins/wp-finance\n"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:145
+msgid "<b>Error:</b> View is not found!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:149
+msgid "<b>Error:</b> Component is not found!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:212
+msgid "Balance from previous periods:"
+msgstr "Montrer la balance des périodes précédentes:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:234
+msgid "Income:"
+msgstr "Revenus:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:235
+msgid "Expenses:"
+msgstr "Dépenses:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:236
+msgid "Grand Total:"
+msgstr "Solde:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:246
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:155
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:160
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:531
+msgid "Income"
+msgstr "Revenus"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:247
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:156
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:160
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:532
+msgid "Expenses"
+msgstr "Dépenses"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:316
+msgid "Print report"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/wp-finance.php:316
+msgid "Print"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:41
+msgid "Configure"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:54
+msgid "None"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:55
+msgid "ISO code"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:56
+msgid "Currency symbol"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:59
+msgid "In front of the number"
+msgstr "Devant"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:60
+msgid "After the number"
+msgstr "À la fin"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:63
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:72
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:82
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:86
+msgid "No"
+msgstr "Non"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:64
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:73
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:83
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:87
+msgid "Yes"
+msgstr "Oui"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:67
+msgid "Shared account"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:68
+msgid "Separate account for each user"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:77
+msgid "Standard"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:78
+msgid "Side by side"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:79
+msgid "Single sheet"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:107
+msgid "Settings were updated successfully!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:129
+msgid "Settings were not updated! Please check configuration!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:135
+msgid "General settings"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:138
+msgid "Currency"
+msgstr "Monnaie"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:148
+msgid "Currency representation"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:154
+msgid "Not all currency symbols are available in this version of WP Finance!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:158
+msgid "Currency sign position"
+msgstr "Position du symbole de la monnaie"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:167
+msgid "Show balance of previous periods"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:178
+msgid "Role settings"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:183
+#, fuzzy
+msgid "Accounting"
+msgstr "Montant"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:193
+msgid "Role premissions"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:207
+msgid "Allows selected roles to view and edit financial statements."
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:212
+msgid "Show username in overview"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:223
+msgid "Printing settings"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:228
+msgid "Report format"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:238
+#, fuzzy
+msgid "Include description"
+msgstr "Description:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:248
+msgid "Include username"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:258
+msgid "Save Settings"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_configure.php:259
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:315
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:430
+msgid "Cancel"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:40
+msgid "CSS Editor"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:63
+msgid "CSS stylesheets were updated successfully."
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:68
+msgid "Custom"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:69
+msgid "Default"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:70
+msgid "Extra Light"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:79
+msgid "CSS Theme"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:88
+msgid "Custom stylesheet"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_css.php:92
+msgid "Save"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:14
+msgid "Filter"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:15
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:41
+msgid "Overview"
+msgstr "Rapport financier"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:81
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:78
+msgid "Click to toggle"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:155
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:156
+msgid "Add"
+msgstr "Ajouter"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:172
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:187
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:479
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:499
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:516
+msgid "Invoice #:"
+msgstr "Facture"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:200
+msgid "No data."
+msgstr "Aucune donnée disponible!"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:241
+msgid "Income record was updated successfully"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:253
+msgid "New income record was added successfully"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:257
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:373
+msgid "Incorrect date format"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:258
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:374
+msgid "Please specify income title"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:259
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:375
+msgid "Amount format is incorrect!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:279
+msgid "Add Income"
+msgstr "Ajouter des revenus"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:286
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:401
+msgid "Date"
+msgstr "Date"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:290
+msgid "Income title"
+msgstr "Nom:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:294
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:409
+msgid "Amount"
+msgstr "Montant"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:297
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:412
+msgid "Input amount only. For example: 12.34"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:301
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:416
+msgid "Invoice #"
+msgstr "Facture"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:305
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:420
+msgid "Description"
+msgstr "Description:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:309
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:424
+msgid "Added by"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:314
+msgid "Save Invoice"
+msgstr "Enregistrer"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:317
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:432
+msgid "Remove record"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:357
+msgid "Expense record was updated successfully"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:369
+msgid "New expense record was added successfully"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:395
+msgid "Add Expense"
+msgstr "Ajouter des dépenses"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:405
+msgid "Expense title"
+msgstr "Nom:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:429
+msgid "Save Expense"
+msgstr "Enregistrer"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:453
+msgid "Record was successfuly removed!"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:491
+msgid "Balance"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:510
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:527
+msgid "Total"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:541
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:545
+msgid "Financial report"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:546
+msgid "Period"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:546
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:572
+msgid "to"
+msgstr "à"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:570
+msgid "From"
+msgstr "De"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:575
+msgid "Previous periods"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:577
+msgid "1m"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:578
+msgid "3m"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:579
+msgid "6m"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:580
+msgid "1y"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:584
+msgid "Update"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:619
+msgid "Balance from<br/>previouse periods:"
+msgstr "Balance des<br/>périodes précédentes:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:628
+msgid "Total income:"
+msgstr "Total des revenus"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:634
+msgid "Total expenses:"
+msgstr "Total des dépenses"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_default.php:640
+msgid "Grand total:"
+msgstr "Solde:"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:12
+msgid "About WP Finance"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:13
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:126
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:38
+msgid "Help"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:108
+msgid "Plugin Name"
+msgstr "Nom du plugin"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:109
+msgid "Version"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:110
+msgid "Website"
+msgstr "URL"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:111
+msgid "Support email"
+msgstr "Support e-mail"
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:112
+msgid "Support forum"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:122
+msgid ""
+"Financial report can be embedded into blog post or custom pages using "
+"shortcode to provide read-only financial information for your blog readers."
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:127
+msgid "Shortcode parameters"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:128
+msgid "start date for report"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:129
+msgid "end date for report"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:130
+msgid "show grand total table"
+msgstr ""
+
+#: /Users/mindo/Documents/hobbies/wordpress/wp-content/plugins/wp-finance/components/wpf_help.php:131
+msgid "For example"
+msgstr ""

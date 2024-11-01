@@ -1,0 +1,7 @@
+.finance-income, .finance-expenses {width: 100%; padding-bottom: 20px;}
+.finance-income b, .finance-expenses b {color: #21759b;}
+.financial-totals {padding-top: 20px;}
+.finance-income span, .finance-expenses span {float: right;}
+.total-row span, .total-row-bold span {float: right;}
+.total-row-bold {font-weight: bold;} 
+.financial-totals {width: 220px; float: right; margin-bottom: 50px;}
